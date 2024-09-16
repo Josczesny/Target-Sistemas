@@ -1,0 +1,13 @@
+int INDICE = 13, SOMA = 0, K = 0;
+Enquanto K < INDICE faça {
+    K = K + 1;
+    SOMA = SOMA + K;
+}
+Imprimir(SOMA);
+
+Inicializa três variáveis: INDICE = 13, SOMA = 0, e K = 0.
+Enquanto a variável K for menor que o valor de INDICE (13), ele incrementa K em 1 e, ao mesmo tempo, adiciona o valor de K à variável SOMA.
+O loop continua até que K seja igual a 13.
+Ao final, o valor de SOMA será impresso.
+
+O loop termina quando K = 13, que é igual ao valor de INDICE. Ao final, o valor de SOMA é 91.
